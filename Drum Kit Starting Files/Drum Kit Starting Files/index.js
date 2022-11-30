@@ -28,7 +28,11 @@ function handleClick() {
 
 }
 }
+document.addEventListener('keypress'), function(event){alert('Key pressed')
+console.log(event)
 
+
+}
 
 
 
